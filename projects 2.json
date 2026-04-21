@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "fpm-garden",
+    "title": "FPM Garden",
+    "category": "Retail Concept",
+    "location": "Tokyo",
+    "year": "2026",
+    "coverImage": "https://images.unsplash.com/photo-1523419409543-a5e549c1faa8?auto=format&fit=crop&w=1600&q=85",
+    "heroImage": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=2200&q=90",
+    "shortDescription": "A retail journey in Tokyo inspired by Japanese gardens and Italian craftsmanship.",
+    "concept": "FPM Garden translates the precision of Italian luggage into a quiet retail ritual. Movement becomes a sequence of thresholds, pauses, and carefully framed encounters with product.",
+    "spatialIdea": "The store is arranged as a curated walk through garden-like rooms. Each zone invites interaction through changes in proportion, texture, and light, allowing the visitor to discover the collection rather than consume it at once.",
+    "materials": "Brushed metal, mineral plaster, dark timber, ribbed glass, stone paths, and softened greenery create a dialogue between Japanese restraint and Italian tactility.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541976590-713941681591?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1493397212122-2b85dda8106b?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1565060169187-276c3f4b5b1b?auto=format&fit=crop&w=1400&q=85"
+    ]
+  },
+  {
+    "slug": "school-concept-shore-depths",
+    "title": "School Concept – From the Shore to the Depths",
+    "category": "Educational Interior",
+    "location": "Concept",
+    "year": "2026",
+    "coverImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1600&q=85",
+    "heroImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=90",
+    "shortDescription": "A primary school imagined as a gradual passage from shore to lighthouse.",
+    "concept": "The school is conceived as an emotional map of the sea, turning learning into a spatial progression through curiosity, discovery, calm, and orientation.",
+    "spatialIdea": "The journey moves from Shore to Waves, Reef, Depths, and Lighthouse. Each chapter shifts scale and mood, helping children understand transition through atmosphere and intuitive wayfinding.",
+    "materials": "Pale timber, acoustic felt, translucent panels, blue-green accents, matte flooring, and soft mineral surfaces support a safe and immersive learning environment.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1400&q=85"
+    ]
+  },
+  {
+    "slug": "apartment-interior-milano",
+    "title": "Apartment Interior – Milano",
+    "category": "Residential",
+    "location": "Milan",
+    "year": "2026",
+    "coverImage": "https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1600&q=85",
+    "heroImage": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=2200&q=90",
+    "shortDescription": "A calm, bright apartment for a young couple, shaped by openness and natural materiality.",
+    "concept": "This Milan apartment is built around quiet generosity: daylight, uncluttered circulation, and a sense of domestic softness that does not lose precision.",
+    "spatialIdea": "Living, dining, and kitchen areas open into one another with subtle thresholds. Storage is absorbed into the architecture, leaving the daily rituals of the couple at the center.",
+    "materials": "Oak, linen, warm plaster, honed stone, brushed metal, and soft neutral textiles create an atmosphere of ease and lasting clarity.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1400&q=85"
+    ]
+  },
+  {
+    "slug": "caffe-italia",
+    "title": "Caffè Italia",
+    "category": "Furniture Concept",
+    "location": "Milan",
+    "year": "2026",
+    "coverImage": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=1600&q=85",
+    "heroImage": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?auto=format&fit=crop&w=2200&q=90",
+    "shortDescription": "Custom furniture inspired by the material memory of Milanese cafés from the 1970s and 1980s.",
+    "concept": "Caffè Italia revisits the social elegance of Milanese café culture through furniture that feels familiar, cinematic, and exact.",
+    "spatialIdea": "The collection is imagined as a set of intimate islands: tables, counters, and seating pieces that compose a scene of conversation and ritual.",
+    "materials": "Red marble, dark oak, glass brick, lacquered details, chrome accents, and deep upholstery bring warmth and graphic strength to the proposal.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?auto=format&fit=crop&w=1400&q=85"
+    ]
+  },
+  {
+    "slug": "private-villa",
+    "title": "Private Villa",
+    "category": "Residential Architecture",
+    "location": "Coastal Site",
+    "year": "2026",
+    "coverImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85",
+    "heroImage": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2200&q=90",
+    "shortDescription": "A minimal coastal villa shaped by horizontal volumes, shadow, and the movement of light.",
+    "concept": "The villa is defined by calm horizontality. Its architecture frames the landscape without theatrical gestures, allowing light and shadow to become the main ornament.",
+    "spatialIdea": "Strong linear volumes organize the plan into protected interior rooms and open terraces. The experience alternates between compression and release, privacy and horizon.",
+    "materials": "Limestone, limewash, pale concrete, oak, linen, bronze metalwork, and low-reflective glass create a quiet coastal permanence.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?auto=format&fit=crop&w=1400&q=85"
+    ]
+  }
+]
